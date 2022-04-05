@@ -1,0 +1,11 @@
+9a0df34a046414cdca3b29f60a95506b  msg_producer.h
+dbf05737667fffc93d826c9b6edbe0ed  main.cpp
+fac53acef8bc9748dcee3e071acb6808  msg_producer_base.h
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+7e8f2d3f61fa39d3a25fa9a6125a0bca  msg_producer_base.cpp
+24bb07897a88fab986063c82d252acd1  configure.ac
+359a878ea970d3c4c89f45db4ce5c8cf  Makefile.am
+f3df2b00a6955aeec70a397fa4a6daf3  struct_props.h
+2028c60e246f522ac2ebcd2136bc64d2  Makefile.am.ide
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
+00eea8964863b4911f900f74e73827d0  msg_producer.cpp
